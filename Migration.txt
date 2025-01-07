@@ -1,0 +1,1 @@
+https://microsoftlearning.github.io/mslearn-sql-migration/Instructions/Labs/02-migrate-sql-server-workloads-azure-vm.html
